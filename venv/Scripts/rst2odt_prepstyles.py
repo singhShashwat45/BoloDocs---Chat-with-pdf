@@ -1,4 +1,4 @@
-#!C:\Users\tomar\OneDrive\Desktop\Minor_Project\venv\Scripts\python.exe
+#!C:\Users\tomar\OneDrive\Desktop\BoloDocs - Chat with pdf\venv\Scripts\python.exe
 
 # $Id: rst2odt_prepstyles.py 8346 2019-08-26 12:11:32Z milde $
 # Author: Dave Kuhlman <dkuhlman@rexx.com>

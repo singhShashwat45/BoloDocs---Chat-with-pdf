@@ -4,7 +4,7 @@ import boto3
 import streamlit as st
 
 # LangChain and Bedrock Imports
-from langchain_community.embeddings import BedrockEmbeddings
+from langchain_community.embeddings import BedrockEmbeddings    
 from langchain.llms.bedrock import Bedrock
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_community.document_loaders import PyPDFLoader
@@ -115,7 +115,7 @@ def main():
                 font-family: 'sans-serif';
             }
             .stApp {
-                background-color: rgba(245, 245, 245, 0.9); /* Semi-transparent overlay */
+                background-color:  rgb(169, 169, 169); /* Semi-transparent overlay */
             }
             h1 {
                 text-align: center;
